@@ -14,6 +14,21 @@ https://github.com/peterthrees/Coverflow/blob/master/build/Coverflow/CoverflowV1
 # Video
 We have made a short demonstration video of the app Coverflow, you can watch this here: https://streamable.com/2vo85
 
+# Features
+
+Features:
+
+- Fast gui where you can switch between emulators and games. 
+- The games are ordered by the first character. You can use up and down to change the character alphabetically to get the next list of games.
+- You can scrol through your emulators with the left and right buttons - you can use L & R for fast scrolling.
+- Show boxarts or screenshots of your games.
+- Use and create different themes, you can select this in the coverflow app.
+- Add or remove emulators. 
+- You can create a list for each emulator of your favorite games
+- When existing a game, it will return back to the coverflow app using your last position.
+- If you add the app coverflow and use the name of your emulator as parameter, the app will boot directly to this emulator. That way you still can setup it separately in case you want to do that instead of one app.
+- And many other settings that are explained in the documentation...
+
 # Screens
 ![](screenshots/screen1.png)
 
