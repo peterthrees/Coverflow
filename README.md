@@ -14,7 +14,7 @@ https://github.com/peterthrees/Coverflow/blob/master/build/Coverflow/CoverflowV1
 # Video
 We have made a short demonstration video of the app Coverflow, you can watch this here: https://streamable.com/2vo85
 
-# Screens:
+# Screens
 ![](screenshots/screen1.png)
 
 ![](screenshots/screen2.png)
