@@ -9,12 +9,12 @@ You can find us on discord: https://discord.gg/Ran4XZ
 In the section  [New bitboy/pocketgo] in the channel [Developer-talk] for questions or feedback.
 
 # Download
-https://github.com/peterthrees/Coverflow/blob/master/build/Coverflow/CoverflowV1.0.zip click on download
+https://github.com/peterthrees/Coverflow/blob/master/build/Coverflow/CoverflowV1.0.zip click on download and follow the installation steps in the documentation.
 
 # Video
 We have made a short demonstration video of the app Coverflow, you can watch this here: https://streamable.com/2vo85
 
-# Screens:
+# Screens
 ![](screenshots/screen1.png)
 
 ![](screenshots/screen2.png)
