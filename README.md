@@ -11,6 +11,9 @@ In the section  [New bitboy/pocketgo] in the channel [Developer-talk] for questi
 
 We have made a short demonstration video of the app Coverflow, you can watch this here: https://streamable.com/2vo85
 
+# Download
+https://github.com/peterthrees/Coverflow/blob/master/build/Coverflow/CoverflowV1.0.zip click on download
+
 Some screens:
 ![](screenshots/screen1.png)
 
