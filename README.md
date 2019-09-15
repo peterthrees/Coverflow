@@ -15,9 +15,6 @@ https://github.com/peterthrees/Coverflow/blob/master/build/Coverflow/CoverflowV1
 We have made a short demonstration video of the app Coverflow, you can watch this here: https://streamable.com/2vo85
 
 # Features
-
-Features:
-
 - Fast gui where you can switch between emulators and games. 
 - The games are ordered by the first character. You can use up and down to change the character alphabetically to get the next list of games.
 - You can scrol through your emulators with the left and right buttons - you can use L & R for fast scrolling.
