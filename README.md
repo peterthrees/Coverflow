@@ -22,7 +22,7 @@ We have made a short demonstration video of the app Coverflow, you can watch thi
 - Use and create different themes, you can select this in the coverflow app.
 - Add or remove emulators. 
 - You can create a list for each emulator of your favorite games
-- When existing a game, it will return back to the coverflow app using your last position.
+- When quitting a game, it will return back to the coverflow app using your last position.
 - If you add the app coverflow and use the name of your emulator as parameter, the app will boot directly to this emulator. That way you still can setup it separately in case you want to do that instead of one app.
 - And many other settings that are explained in the documentation...
 
